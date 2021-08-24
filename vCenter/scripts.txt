@@ -1,0 +1,11 @@
+
+
+
+Reset admin password
+
+1. Login with root credentials via ssh
+2. Access bash shell
+3. Ran the following command " /usr/lib/vmware-vmdir/bin/vdcadmintool "
+4. Press 3 to reset the account password
+5. typed in the administrator@yourdomain.local
+6. Reset the password successfully, and confirmed I can now login o vCenter via web-gui
